@@ -9,6 +9,4 @@ numpy==2.0.1
 transformers==4.44.1
 wandb==0.18.3
 datasets==3.0.1
-flash-attn==2.6.3
 smart-open[s3]==7.0.5
-accelerate
